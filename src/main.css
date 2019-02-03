@@ -97,7 +97,7 @@ header {
   height: 1000px;
   min-height: 1000px;
   padding: 0 5px;
-  background: url(/pics/background_header.png) no-repeat;
+  background: url(https://i.postimg.cc/W4BPv9Dc/background-header.png) no-repeat;
   background-size: contain;
   background-position: bottom right;
 }
@@ -112,7 +112,7 @@ header h1 {
   text-align: center;
   margin: 10em 0 3em 0;
   padding: 0 5%;
-  background: url(/pics/background_team.png) no-repeat center;
+  background: url(https://i.postimg.cc/3rpxdG7Z/background-team.png) no-repeat center;
 }
 
 .team h1 {
@@ -137,7 +137,7 @@ header h1 {
 /* About */
 .about {
   padding: 0 5%;
-  background: url(/pics/background_about.png) no-repeat left center;
+  background: url(https://i.postimg.cc/26L8dbWr/background-about.png) no-repeat left center;
   background-size: 80%;
   height: 900px;
   min-height: 900px;
@@ -201,7 +201,7 @@ footer p,
   body {
     height: 1600px;
     min-height: 1600px;
-    background: url(/pics/mobile_background_header.png) no-repeat;
+    background: url(https://i.postimg.cc/tCBQTR15/mobile-background-header.png) no-repeat;
     background-size: contain;
     background-position: bottom right;
   }
@@ -213,11 +213,11 @@ footer p,
 
   .team {
     margin: 3em 0 3 em 0;
-    background-image: url(/pics/mobile_background_team.png) no-repeat top;
+    background-image: url(https://i.postimg.cc/1Rc1krsb/mobile-background-about.png) no-repeat top;
   }
 
   .about {
-    background: url(/pics/mobile_background_about.png) no-repeat;
+    background: url(https://i.postimg.cc/7ZQkBPw6/mobile-background-team.png) no-repeat;
     background-position: left center;
     background-size: 80%;
     height: 900px;
